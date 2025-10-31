@@ -4,8 +4,8 @@
 
 ### Features:
 - 3 different layouts fully customizable (Blizz, Flat, Xaryu).
-- DR Tracker
-- Trinket + Racial Tracker (still need to change id's in order to fully work).
+- DR Tracker (need to change id's)
+- Trinket + Racial Tracker (need to change id's).
 - Spec Icons (can replace class icon with spec icon too).
 - Combat Tracker (still kinda buggy).
 - Castbar.
